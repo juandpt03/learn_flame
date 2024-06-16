@@ -1,3 +1,3 @@
 # learn_flame
 
-A new Flutter project.
+A new game project
